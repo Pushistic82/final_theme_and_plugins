@@ -1,0 +1,102 @@
+/*
+
+Theme Name: Jax Lite
+Theme URI: https://www.themeinprogress.com/jax-free-responsive-creative-wordpress-theme/
+Description: Keeping its design to only the essentials, Jax Lite is a creative WordPress theme that has everything you will need to create the most eye-catching WordPress websites with a contemporary minimalist flair, with a masonry layout to create the most stunning photo showcases.
+Author: Theme in Progress.
+Author URI: https://themeinprogress.com
+Version: 1.0.2
+Tags: blue, green, orange, purple, red, yellow, light, one-column, two-columns, three-columns, left-sidebar, right-sidebar, photoblogging, custom-background, post-formats, theme-options, translation-ready, responsive-layout, translation-ready
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Jax Lite WordPress Theme, Copyright 2014 WordPress.org
+Jax Lite is distributed under the terms of the GNU GPL v3
+
+*/
+/*--Yulia's css code here*/
+body{
+	background-color: #6D6A6A !important;
+}
+
+h3.title{
+	color: #610B38 !important;
+}
+.title{
+	font-family: "Playfair Display" !important;
+}
+span.sitename{
+	font-family: 'Cinzel', serif !important;
+	color: #B40431 !important;
+	font-size: 60px !important;
+}
+a{
+	color: #8A0808 !important;
+}
+
+ h1.title{
+ 	color: #B40455 !important;
+ 	font-family: 'Cinzel', serif !important;
+ }
+ h2{
+ 	text-align: center;
+ 	color:  #FF8000 !important;
+ }
+
+ p{
+ 	font-size: 12px;
+ }
+strong{
+	color: #FF8000;
+}
+
+figure#team{
+	margin-bottom: 20px;
+}
+figcaption{
+	font-style: italic;
+	margin-left: 55px;
+}
+#footerText{
+	text-align: center !important;
+}
+div#OurLinks{
+	background-color: #2E2E2E!important;
+}
+div.text{
+	text-align: center;
+}
+h4.message{
+	text-align: center;
+	margin-top: 50px;
+}
+div#contactForm{
+	text-align: center !important;
+}
+p#lions{
+	text-align: center !important;
+}
+button.shiny{
+  margin-top: 15px;
+  color: #fff;
+  text-shadow: -2px 2px #346392;
+  background-color: #ff9664;
+  background-image: linear-gradient(top, #6496c8, #346392);
+  box-shadow: inset 0 0 0 1px #27496d;
+  border: none;
+  border-radius: 20px;
+} 
+p#hiddenp,p#hiddenpa,p#hiddenpar{
+ display: none;	
+}
+
+.newsItem {
+	margin-bottom: 25px;
+	margin-left: 210px;
+
+}
+
+.newsTitle a{
+	font-size: 25pt;
+	font-family: "Playfair Display" !important;
+	color: #61210B !important;
+}
